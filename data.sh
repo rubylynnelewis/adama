@@ -1,0 +1,1 @@
+id; pwd; uname -a
