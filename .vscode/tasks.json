@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "start-app",
+            "type": "shell",
+            "command": "chmod +x conan && ./conan",
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        }
+    ]
+}
